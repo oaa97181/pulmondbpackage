@@ -1,0 +1,24 @@
+Package: pulmondbpackage
+Title: This package plots some queries from "pulmondb"
+Version: 0.0.0.9000
+Authors@R: as.person(c(
+    "Alejandra Medina <amedina@liigh.unam.mx> [aut,own]", 
+    "Oscar Aldana  <oaa97181@gmail.com> [cre]", 
+    "Ana Beatriz Villasenor <aaltamirano@liigh.unam.mx> [aut]"
+  ))
+Description: Plots queries into a beautiful format
+    so users can see what pulmonDB's raw data is 
+    capable of.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
+Imports: 
+    RMySQL (>= 0.10.17),
+    ggplot2 (>= 3.1.0),
+    RColorBrewer (>= 1.1-2),
+    tidyr (>= 0.8.3),
+    dplyr (>= 0.8.0)
+URL: pulmonDB.com
+BugReports: https://github.com/oaa97181/simpleplotpkg/issues
