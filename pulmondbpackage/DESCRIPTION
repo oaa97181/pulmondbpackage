@@ -2,10 +2,10 @@ Package: pulmondbpackage
 Title: This package plots some queries from "pulmondb"
 Version: 0.0.0.9000
 Authors@R: as.person(c(
-    "Alejandra Medina <amedina@liigh.unam.mx> [aut,own]",
-    "Oscar Aldana  <oaa97181@gmail.com> [cre]",
-    "Ana Beatriz Villasenor <aaltamirano@liigh.unam.mx> [aut]"
-  ))
+"Alejandra Medina <amedina@liigh.unam.mx> [aut,own]",
+"Oscar Aldana  <oaa97181@gmail.com> [cre]",
+"Ana Beatriz Villasenor <aaltamirano@liigh.unam.mx> [aut]"
+))
 Description: Plots queries into a beautiful format
     so users can see what pulmonDB's raw data is 
     capable of.
